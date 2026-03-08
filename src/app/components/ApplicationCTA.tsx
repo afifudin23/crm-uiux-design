@@ -21,22 +21,22 @@ export function ApplicationCTA() {
             <div className="flex items-start gap-3">
               <span className="text-2xl">📱</span>
               <div>
-                <p className="font-semibold text-white">tolong gaes cari uang</p>
-                <p>Include mobile design work, especially CRM/SaaS projects if you have them</p>
+                <p className="font-semibold text-white">Project Goal</p>
+                <p>Build a high-quality mobile CRM experience focused on usability and growth.</p>
               </div>
             </div>
             <div className="flex items-start gap-3">
               <span className="text-2xl">💬</span>
               <div>
-                <p className="font-semibold text-white">Tell Us Your Story</p>
-                <p>Brief intro about your experience with mobile UX and why this project excites you</p>
+                <p className="font-semibold text-white">Tell Us About Your Vision</p>
+                <p>Share your product goals, target users, and the key problems you want to solve.</p>
               </div>
             </div>
             <div className="flex items-start gap-3">
               <span className="text-2xl">⏱️</span>
               <div>
                 <p className="font-semibold text-white">Timeline & Availability</p>
-                <p>Let us know your availability and estimated timeline for the project</p>
+                <p>Let us know your preferred timeline, milestones, and expected start date.</p>
               </div>
             </div>
           </div>
